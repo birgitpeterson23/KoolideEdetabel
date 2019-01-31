@@ -1,0 +1,1 @@
+Rakendus, mis koondab gŸmnaasiumite riigieksamite tulemused viimase 5 aasta l›ikes. V›imalik otsida ja jŠrjestada koole ja maakondi keskmise riigieksami tulemuse jŠrgi.
